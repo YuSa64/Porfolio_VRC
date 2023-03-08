@@ -1,5 +1,5 @@
 # Site settings
-title: "유사64"
+title: "YuSa64"
 email: rtgh64@gmail.com
 url: https://github.com/YuSa64
 description: "유사의 VRC포트폴리오"
@@ -27,8 +27,8 @@ disqus_shortname:
 color:
   primary: bab0ff
   primary-rgb: "186,176,255"
-  secondary: FF9999 #FD6E8A
-  secondary-dark: 99BCFF #A2122F
+  secondary: FF9999
+  secondary-dark: 99BCFF
 
 # Footer settings
 footer:
