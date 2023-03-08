@@ -25,15 +25,15 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: bab0ff
-  primary-rgb: "186,176,255"
-  secondary: FF9999
-  secondary-dark: 99BCFF
+  primary: B3B3B3
+  primary-rgb: "179,179,179"
+  secondary: bab0ff
+  secondary-dark: FF9999
 
 # Footer settings
 footer:
   copyright: "YuSa64"
-  location: "루석바"
+  location: "서식지"
   social:
   credits:
 
