@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2023-03-07
-img: VRChat_2023-01-28_12-01-41.067_2560x1440.png
+img: VRChat_2022-12-20_02-13-08.221_1920x1080.png
 alt: image-alt
-project-date: Jan 2023
+project-date: Dec 2022
 client: 
-category: VRC아바타, 모델링
-description: 한복 이벤트에 참가하기 위한 용도로 빠르게 만든 아바타입니다. <br/>손에 든 담뱃대는 직접 모델링했습니다.
+category: VRC아바타, 아바타 다이나믹
+description: 유기미요의 모든걸 써먹기 위해 만들었던 미요입니다.<br/>기믹으론 변신 시스템이 있습니다.<br/>개인적으론 유사땅이라 부릅니다.
 ---
