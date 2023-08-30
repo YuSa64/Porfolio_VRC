@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2023-08-12
+img: VRChat_2023-08-30_04-31-38.588_3840x2160.png
+alt: image-alt
+project-date: Jun 2023
+client: 채은채
+category: 성형
+description: 스트리머인 채은채님의 뉴 아바타입니다. <br/> 원하시는 느낌에 맞춰 아바타 성형을 진행했습니다.
+---
